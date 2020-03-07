@@ -14,3 +14,10 @@ https://opentutorials.org/module/532
 
   - 자바스크립트 사전 : 
 https://opentutorials.org/course/50
+
+jQuery JavaScript Library v3.4.1 : 
+https://code.jquery.com/jquery-3.4.1.js
+
+jQuery API manual : https://api.jquery.com/
+
+Regexper(regular expression to image) : https://regexper.com/
